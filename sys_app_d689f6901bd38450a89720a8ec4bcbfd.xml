@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
+        <ide_created/>
         <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
@@ -26,6 +27,7 @@ DevTools contains a number of Script Includes with useful javascript functions a
         <source>x_snc_devtools</source>
         <store_correlation_id/>
         <store_url/>
+        <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
@@ -41,12 +43,6 @@ DevTools contains a number of Script Includes with useful javascript functions a
         <vendor/>
         <vendor_prefix/>
         <version>1.75.1</version>
-        <x_snc_devtools_documentation_url>https://www.wildgrube.com/servicenow-devtools</x_snc_devtools_documentation_url>
-        <x_snc_devtools_maintainer>Sascha Wildgrube</x_snc_devtools_maintainer>
-        <x_snc_devtools_maintainer_email>sascha.wildgrube@servicenow.com</x_snc_devtools_maintainer_email>
-        <x_snc_devtools_repo_url>https://github.com/saschawildgrube/servicenow-devtools.git</x_snc_devtools_repo_url>
-        <x_snc_wildgrubelab_test/>
-        <x_snc_wildgrubelab_test2/>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=d689f6901bd38450a89720a8ec4bcbfd"/>
 </record_update>
